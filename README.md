@@ -1,17 +1,70 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header)
+ <h1 align="center">Hi There! I'm Eren</h1>
+
+ 
+<h3 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=Jr+Full-Stack+Developer+)](https://git.io/typing-svg)
+
+### 🪐 About Me 
+
+🧬  Hello, I have been working on Full Stack Development of web applications by using Asp.NET, Mssql, Html, C#. 
+If you want to examine me more closely, you can visit www.burakertan.com.tr
 
 
-## 🌐 Contact:
-## 📧 erenterzi@protonmail.com
-#### 🔷 https://twitter.com/therenn8
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=erent8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=erent8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erent8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=erent8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### The Languages, Frameworks & Tools I am proficient about
+
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?&theme=light&i=visualstudio,dotnet,cs,html,css,github,mysql"/>
+    
+  </a>
+</p>
+ 
+### Contact & Social
+
+<h3 align="center">
+ <a href="https://https://www.facebook.com/eren.terzi.14606">
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
+    </a>
+ <a href="https://www.linkedin.com/in/eren-terzi-573224225/">
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+ </a>
+<a href="https://twitter.com/therenn8">
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
+    </a>
+  <a href="#">
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
+    </a>
+
+
+
+   
+ </a>
+
+
+
+
+
+
+</h3>
+
+
+ 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
