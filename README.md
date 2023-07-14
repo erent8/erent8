@@ -4,13 +4,11 @@
  
 <h3 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=Jr+Full-Stack+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=Jr.++Back-End+Developer+)](https://git.io/typing-svg)
 
 ### 🪐 About Me 
 
-🧬  Hello, I have been working on Full Stack Development of web applications by using Asp.NET, Mssql, Html, C#. 
-If you want to examine me more closely, you can visit www.burakertan.com.tr
-
+🧬  I'm Eren, a 3rd year student at the Department of Molecular Biology and Genetics. I am interested in Software and Computer Science fields and I love coding.
 
 
 
@@ -19,7 +17,7 @@ If you want to examine me more closely, you can visit www.burakertan.com.tr
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=light&i=visualstudio,dotnet,cs,html,css,github,mysql"/>
+    <img src="https://skillicons.dev/icons?&theme=light&i=visualstudiocode,python,java,html,css,github,mysql,django,sketchup,bootstrap,photoshop,javascript,"/>
     
   </a>
 </p>
@@ -37,8 +35,7 @@ If you want to examine me more closely, you can visit www.burakertan.com.tr
    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
     </a>
   <a href="#">
-   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
-    </a>
+   
 
 
 
