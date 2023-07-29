@@ -45,7 +45,7 @@
     bg_color=#808080/></p>
     
 <div align="center">
-<h2 align="centre"><i>Visitors</i>  
+<h2 align="center"><i>Visitors</i>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{erent8}/count.svg" /></p> 
 <br>
 </div>
