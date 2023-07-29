@@ -6,6 +6,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=Jr.++Back-End+Developer+)](https://git.io/typing-svg)
 
+
 ### 🪐 About Me 
 
 🧬  I'm Eren, a 3rd year student at the Department of Molecular Biology and Genetics. I am interested in Software and Computer Science fields and I love coding.
@@ -42,6 +43,19 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=erent8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="erent8" 
     bg_color=#808080/></p>
+    
+<div align="center">
+<h2 align="centre">Visitors Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{erent8}/count.svg" /></p> 
+<br>
+</div>
+
+
+	  
+<p align="center">
+<img align="" height='120px' src="https://github.com/erent8" /><img align="" height='120px'  
+</p>
+<img src="https://raw.githubusercontent.com/erent8/readme/master/assets/lines/rainbow.png" width="1000">
 
 <br>
 
