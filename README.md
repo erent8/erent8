@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header)
- <h1 align="center">Hi There! I'm Eren</h1>
+ <h1 align="center"> <i> Hi There! I'm Eren <i/></h1>
 
  
 <h3 align="center">
@@ -7,14 +7,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=Jr.++Back-End+Developer+)](https://git.io/typing-svg)
 
 
-### 🪐 About Me 
+###  <i>🪐 About Me <i/>
 
 🧬  I'm Eren, a 3rd year student at the Department of Molecular Biology and Genetics. I am interested in Software and Computer Science fields and I love coding.
 
 
  
 
-### The Languages, Frameworks & Tools I am proficient about
+### <i>The Languages, Frameworks & Tools I am proficient about<i/>
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -23,7 +23,7 @@
   </a>
 </p>
  
-### Contact & Social
+###  <i>Contact & Social<i/>
 
 <h3 align="center">
  
@@ -38,26 +38,21 @@
 
   <br>
 
-<h3>Statistical Data</h3>
+<h3> <i>Statistical Data</h3> <i/>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=erent8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="erent8" 
     bg_color=#808080/></p>
     
 <div align="center">
-<h2 align="centre">Visitors Count</h2>  
+<h2 align="centre"><i>Visitors</i>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{erent8}/count.svg" /></p> 
 <br>
 </div>
 
 
 	  
-<p align="center">
-<img align="" height='120px' src="https://github.com/erent8" /><img align="" height='120px'  
-</p>
-<img src="https://raw.githubusercontent.com/erent8/readme/master/assets/lines/rainbow.png" width="1000">
 
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erent8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="erent8" /></p>
